@@ -2,7 +2,7 @@ package physicsProject;
 
 import processing.core.PApplet;
 import processing.core.PConstants;
-//credit to Akshat Prakash
+
 public class Slider {
 
 	private PApplet parent;
@@ -135,10 +135,6 @@ public class Slider {
 	
 	public void useDecimals(boolean b) {
 		decimal = b;
-	}
-
-	public void updatePosition() {
-
 	}
 
 	public void moveSlider() {
